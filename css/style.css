@@ -182,6 +182,7 @@ sovrascrivo dai 0px ai 480px*/
     }
     .why-us{
         padding-top: 3rem;
+        margin-bottom: 0;
         background-color: #222222;
     }
     .why-us .col-left img{
